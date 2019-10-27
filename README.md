@@ -3,9 +3,12 @@
 
 Contents :
 
-model-gc-automl.mlmodel : model created using GCP's AutoML. Precision : 97%
+model-export_icn_core_ml-applegoogle5-2019-10-27T11_07_37.327Z_model.mlmodel : model created using GCP's AutoML. Precision : 97%
+
 AppleSeb.mlmodel : model created using Apple MLKit. Precision : 81%
+
 iOS app : Folder contains XCode code to develop iOS app incorporating the above built models.
+
 Output : Folder contains screenshots of the Fresher app at work.
 
 
